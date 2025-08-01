@@ -34,5 +34,19 @@ npm install
 ```bash
 npm run dev
 ```
-
 Aplikasi akan berjalan pada `http://localhost:3000` dan dapat diakses melalui browser.
+
+### 4. Akses Halaman di Local
+
+```
+- Halaman **Statis** dapat diakses pada `http://localhost:3000/static-page`.
+- Halaman **Dinamis** dapat diakses pada `http://localhost:3000/dashboard`.
+```
+
+### 5. Akses Halaman di Deployed
+
+```
+- [Statis](https://united-creative-test.vercel.app/static-page)
+- [Dinamis](https://united-creative-test.vercel.app/dashboard)
+
+```
