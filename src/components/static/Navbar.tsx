@@ -10,7 +10,7 @@ export default function Navbar() {
             <nav className="mx-auto flex items-center justify-between p-4 sm:p-6 lg:p-8">
                 {/* Logo */}
                 <div className="flex items-center gap-3">
-                    <Image src="/logo.png" alt="Logo" width={32} height={32} />
+                    <Image src="/logo.svg" alt="Logo" width={32} height={32} />
                     {/* Desktop Menu */}
                     <ul className="hidden md:flex gap-8 ml-6 text-sm font-light">
                         <li><a href="#" className="hover:text-[#E5933A]">Pasar</a></li>
